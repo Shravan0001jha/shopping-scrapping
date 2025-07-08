@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+spacy
+serpapi
+openai
+google-search-results
